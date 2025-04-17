@@ -2,7 +2,6 @@
 
 <h1 align="center">I'm Batuhan</h1>
 
-
 ## About Me
 
 I have a Bachelor's degree in Statistics. I am passionate about working with data and eager to grow my skills. 
@@ -15,12 +14,7 @@ I am interested in coding and enjoy developing projects both for learning and as
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=batuhantug&label=Profile%20views&color=0e75b6&style=flat" alt="batuhantug" />
-</p>
 
--   
-- 
 - 📫 How to reach me **kamilbatuhantug@gmail.com**  
 - 📝 Know about my experiences [https://www.linkedin.com/in/kamilbatuhantug/](https://www.linkedin.com/in/kamilbatuhantug/)
 
@@ -31,11 +25,8 @@ I am interested in coding and enjoy developing projects both for learning and as
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" alt="c" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" alt="django" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c#.svg" alt="c#" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> 
