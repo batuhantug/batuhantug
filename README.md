@@ -25,7 +25,7 @@ I am interested in coding and enjoy developing projects both for learning and as
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c#.svg" alt="c#" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" alt="csharp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="python" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="mysql" width="40" height="40"/>
